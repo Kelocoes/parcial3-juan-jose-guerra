@@ -1,0 +1,98 @@
+[
+  {
+    "id": "mercury",
+    "name": "Mercury",
+    "color": "#9ca3af",
+    "type": "rocky",
+    "distanceFromSun": 57.9,
+    "moons": 0,
+    "dayLength": 1407.6,
+    "temperature": 167,
+    "description": "The smallest planet and the closest to the Sun.",
+    "funFact": "It has almost no atmosphere to keep its heat."
+  },
+  {
+    "id": "venus",
+    "name": "Venus",
+    "color": "#d4a373",
+    "type": "rocky",
+    "distanceFromSun": 108.2,
+    "moons": 0,
+    "dayLength": 5832.5,
+    "temperature": 464,
+    "description": "A rocky planet covered by thick, toxic clouds.",
+    "funFact": "It is the hottest planet in the solar system."
+  },
+  {
+    "id": "earth",
+    "name": "Earth",
+    "color": "#3b82f6",
+    "type": "rocky",
+    "distanceFromSun": 149.6,
+    "moons": 1,
+    "dayLength": 23.9,
+    "temperature": 15,
+    "description": "Our home, with liquid water on its surface.",
+    "funFact": "It is the only planet known to have life."
+  },
+  {
+    "id": "mars",
+    "name": "Mars",
+    "color": "#dc2626",
+    "type": "rocky",
+    "distanceFromSun": 227.9,
+    "moons": 2,
+    "dayLength": 24.6,
+    "temperature": -65,
+    "description": "A cold, dusty planet known as the red planet.",
+    "funFact": "It has Olympus Mons, the largest known volcano in the solar system."
+  },
+  {
+    "id": "jupiter",
+    "name": "Jupiter",
+    "color": "#d97706",
+    "type": "gas-giant",
+    "distanceFromSun": 778.6,
+    "moons": 95,
+    "dayLength": 9.9,
+    "temperature": -110,
+    "description": "The largest planet in the solar system.",
+    "funFact": "Its Great Red Spot is a giant storm."
+  },
+  {
+    "id": "saturn",
+    "name": "Saturn",
+    "color": "#eab308",
+    "type": "gas-giant",
+    "distanceFromSun": 1433.5,
+    "moons": 146,
+    "dayLength": 10.7,
+    "temperature": -140,
+    "description": "A gas giant famous for its bright rings.",
+    "funFact": "Its rings are mostly made of ice and rock."
+  },
+  {
+    "id": "uranus",
+    "name": "Uranus",
+    "color": "#22d3ee",
+    "type": "ice-giant",
+    "distanceFromSun": 2872.5,
+    "moons": 28,
+    "dayLength": 17.2,
+    "temperature": -195,
+    "description": "An ice giant with a pale blue color.",
+    "funFact": "It rotates tilted on its side."
+  },
+  {
+    "id": "neptune",
+    "name": "Neptune",
+    "color": "#2563eb",
+    "type": "ice-giant",
+    "distanceFromSun": 4495.1,
+    "moons": 16,
+    "dayLength": 16.1,
+    "temperature": -200,
+    "description": "The farthest planet from the Sun.",
+    "funFact": "It has the fastest winds in the solar system."
+  }
+]
